@@ -1,3 +1,8 @@
+# Credentials for django dashboard login
+
+username:- shantanugondane
+password:- Shantanu@1234
+
 # Team Project Planner
 
 A Django-based implementation of a team project planner tool that provides APIs for managing users, teams, and project boards.
