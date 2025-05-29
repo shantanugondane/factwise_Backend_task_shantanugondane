@@ -1,1 +1,5 @@
 #Add the project dependencies to this file
+Django==5.0.2
+djangorestframework==3.14.0
+python-dateutil==2.8.2
+django-cors-headers==4.3.1
