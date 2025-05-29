@@ -3,6 +3,10 @@
 username:- shantanugondane
 password:- Shantanu@1234
 
+# Explanation Video
+
+[text](https://drive.google.com/drive/folders/1CzWZTtvbt25fnqPxW-WkTRMGySeX4lwU?usp=sharing)
+
 # Team Project Planner
 
 A Django-based implementation of a team project planner tool that provides APIs for managing users, teams, and project boards.
