@@ -5,7 +5,7 @@ password:- Shantanu@1234
 
 # Explanation Video
 
-[text](https://drive.google.com/drive/folders/1CzWZTtvbt25fnqPxW-WkTRMGySeX4lwU?usp=sharing)
+[Explanation Vidon Click Here](https://drive.google.com/drive/folders/1CzWZTtvbt25fnqPxW-WkTRMGySeX4lwU?usp=sharing)
 
 # Team Project Planner
 
